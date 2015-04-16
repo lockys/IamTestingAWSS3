@@ -4,4 +4,8 @@
     sudo yum install -y ImageMagick
     sudo easy_install argparse
     mkdir /home/ec2-user/jobs
-    sudo git clone https://github.com/lockys/IamTestingAWSS3.git /home/ec2-user/img-process
+    wget -O image_processor.py https://raw.githubusercontent.com/lockys/IamTestingAWSS3/master/image_processor.py
+    
+## check out the fucking process if exit or not
+
+    ps -fa | grep image_processor.py
