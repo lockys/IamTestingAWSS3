@@ -122,10 +122,9 @@ def process_message(message, s3_output_bucket, s3_endpoint, job_id):
 		output_image_path = output_dir + output_image_name
 		# Invoke ImageMagick to create a montage
 		os.system("montage -size 400x400 null: %s*.* null: -thumbnail 400x400 -bordercolor white -background black +polaroid -resize 80%% -gravity center -background black -geometry -10+2  -tile x1 %s" % (output_dir, output_image_path))
-        # Convert Image to GrayScale ;-)
-        os.system("convert %s -set colorspace Gray -separate -average %s" % (output_image_path, output_image_path))
         # Write the resulting image to s3
-		output_url = write_image_to_s3(output_image_path, output_image_name, s3_output_bucket, s3_endpoint)
+        os.system("convert %s -set colorspace Gray -separate -average %s", (output_image_path, output_image_path))
+        output_url = write_image_to_s3(output_image_path, output_image_name, s3_output_bucket, s3_endpoint)
 		# Return the output url
 		return output_url
 	except:
