@@ -28,7 +28,7 @@ def main(argv=None):
 	parser.add_argument('--s3-output-bucket', action='store', dest='s3_output_bucket', required=False, default="", help='S3 bucket where list of instances will be stored')
 	parser.add_argument('--region', action='store', dest='region', required=False, default="", help='Region that the SQS queus are in')
 	args = parser.parse_args()
-
+	print "inagme processing..."
 	# Get region
 	region_name = args.region
 
