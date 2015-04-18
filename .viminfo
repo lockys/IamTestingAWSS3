@@ -12,8 +12,8 @@
 
 # Command Line History (newest to oldest):
 :wq!
-:w
 :q!
+:w
 :wq
 :e!
 :w!
@@ -33,99 +33,105 @@
 
 # Registers:
 ""1	LINE	0
-	                        os.system("mkdir %s" % job_id)
+	<<<<<<< HEAD
 "2	LINE	0
-	                op_dir = "/home/ec2-user/jobs/%s" % job_id
+	>>>>>>> bb48834a856799cb44875a896c33d5a175f3033c
 "3	LINE	0
-			output_dir = "/home/ec2-user/jobs/%s/" % (job_id)
+	
 "4	LINE	0
-	                        os.system("mv %s %s" % (filename, output_image_name))
+	logger = Logger()
 "5	LINE	0
-	                        #os.system("sudo /usr/bin/wget -P %s %s" % (output_dir, line))
+	
 "6	LINE	0
-	                        #urllib.urlretrieve(line, filename="".join((output_dir, "output-", job_id, "jpg")))
+	if __name__ == "__main__":
 "7	LINE	0
-			# Invoke ImageMagick to create a montage
+	    sys.exit(main())
 "8	LINE	0
-	        # Convert Image to GrayScale ;-)
+	>>>>>>> bb48834a856799cb44875a896c33d5a175f3033c
 "9	LINE	0
-			# Return the output url
+		sys.exit(main())
 "-	CHAR	0
-	m
+	din/python
 
 # File marks:
-'0  169  8  ~/image_processor.py
-'1  149  19  ~/image_processor.py
-'2  136  96  ~/image_processor.py
-'3  134  6  ~/image_processor.py
-'4  171  18  ~/image_processor.py
-'5  123  2  ~/image_processor.py
-'6  135  2  ~/image_processor.py
-'7  1  0  ~/f86084ba-db75-4f46-b0f8-1d7dc90a17f3/image_processor.py
-'8  131  24  ~/image_processor.py
-'9  12  0  ~/py_log
+'0  1  0  ~/image_processor.py
+'1  221  1  ~/image_processor.py
+'2  221  0  ~/image_processor.py
+'3  168  8  ~/image_processor.py
+'4  148  19  ~/image_processor.py
+'5  135  96  ~/image_processor.py
+'6  133  6  ~/image_processor.py
+'7  170  18  ~/image_processor.py
+'8  122  2  ~/image_processor.py
+'9  134  2  ~/image_processor.py
 
 # Jumplist (newest first):
--'  169  8  ~/image_processor.py
--'  149  1  ~/image_processor.py
--'  136  16  ~/image_processor.py
+-'  1  0  ~/image_processor.py
+-'  220  4  ~/image_processor.py
+-'  219  0  ~/image_processor.py
+-'  218  0  ~/image_processor.py
+-'  217  0  ~/image_processor.py
+-'  216  0  ~/image_processor.py
+-'  215  2  ~/image_processor.py
+-'  221  2  ~/image_processor.py
+-'  168  1  ~/image_processor.py
+-'  148  1  ~/image_processor.py
+-'  135  16  ~/image_processor.py
+-'  133  2  ~/image_processor.py
+-'  170  8  ~/image_processor.py
+-'  122  2  ~/image_processor.py
 -'  134  2  ~/image_processor.py
--'  171  8  ~/image_processor.py
--'  123  2  ~/image_processor.py
--'  135  2  ~/image_processor.py
 -'  1  0  ~/f86084ba-db75-4f46-b0f8-1d7dc90a17f3/image_processor.py
--'  131  24  ~/image_processor.py
+-'  130  24  ~/image_processor.py
 -'  12  0  ~/py_log
--'  145  0  ~/image_processor.py
--'  112  0  ~/image_processor.py
--'  137  16  ~/image_processor.py
--'  154  0  ~/image_processor.py
+-'  144  0  ~/image_processor.py
+-'  111  0  ~/image_processor.py
+-'  136  16  ~/image_processor.py
+-'  153  0  ~/image_processor.py
 -'  1  0  ~/image_processor.
 -'  657  0  ~/image_processor.log
 -'  641  0  ~/image_processor.log
 -'  595  0  ~/image_processor.log
--'  132  24  ~/image_processor.py
--'  129  3  ~/image_processor.py
+-'  131  24  ~/image_processor.py
+-'  128  3  ~/image_processor.py
 -'  567  118  ~/image_processor.log
 -'  568  0  ~/image_processor.log
--'  92  7  ~/image_processor.py
--'  220  4  ~/image_processor.py
+-'  91  7  ~/image_processor.py
 -'  571  0  ~/image_processor.log
 -'  561  0  ~/image_processor.log
 -'  559  0  ~/image_processor.log
--'  166  1  ~/image_processor.py
+-'  165  1  ~/image_processor.py
 -'  523  0  ~/image_processor.log
 -'  521  0  ~/image_processor.log
--'  165  8  ~/image_processor.py
+-'  164  8  ~/image_processor.py
 -'  548  0  ~/image_processor.log
 -'  541  0  ~/image_processor.log
--'  160  8  ~/image_processor.py
+-'  159  8  ~/image_processor.py
 -'  514  0  ~/image_processor.log
--'  155  8  ~/image_processor.py
--'  167  1  ~/image_processor.py
+-'  154  8  ~/image_processor.py
+-'  166  1  ~/image_processor.py
 -'  503  0  ~/image_processor.log
 -'  507  0  ~/image_processor.log
--'  157  8  ~/image_processor.py
--'  193  1  ~/image_processor.py
+-'  156  8  ~/image_processor.py
+-'  192  1  ~/image_processor.py
 -'  1  0  ~/image_processor.log
--'  22  0  ~/image_processor.py
--'  5  3  ~/image_processor.py
+-'  21  0  ~/image_processor.py
+-'  4  3  ~/image_processor.py
 -'  1  0  ~/py_log
--'  140  2  ~/image_processor.py
--'  88  24  ~/image_processor.py
--'  85  17  ~/image_processor.py
--'  27  8  ~/image_processor.py
--'  11  7  ~/image_processor.py
--'  68  2  ~/image_processor.py
+-'  139  2  ~/image_processor.py
+-'  87  24  ~/image_processor.py
+-'  84  17  ~/image_processor.py
+-'  26  8  ~/image_processor.py
+-'  10  7  ~/image_processor.py
+-'  67  2  ~/image_processor.py
 -'  71  0  ~/py_log
 -'  56  0  ~/py_log
 -'  55  0  ~/py_log
 -'  50  0  ~/py_log
 -'  39  10  ~/py_log
 -'  2  0  ~/py_log
--'  1  0  ~/image_processor.py
--'  89  3  ~/image_processor.py
--'  91  4  ~/image_processor.py
+-'  88  3  ~/image_processor.py
+-'  90  4  ~/image_processor.py
 -'  31  0  ~/py_log
 -'  123  0  ~/py_log
 -'  100  0  ~/log_eht0
@@ -136,7 +142,7 @@
 -'  78  0  ~/py_log
 -'  60  0  ~/log_eht0
 -'  1  0  ~/log_eht0
--'  17  0  ~/image_processor.py
+-'  16  0  ~/image_processor.py
 -'  2  0  ~/bootscript.sh
 -'  3  0  ~/bootscript.sh
 -'  1  0  ~/eee
@@ -149,128 +155,118 @@
 -'  8  7  /etc/rc.d/rc.local
 -'  1  0  /etc/rc.d/rc.local
 -'  1  0  ~/bootscript.sh
--'  20  0  ~/image_processor.py
--'  118  16  ~/image_processor.py
+-'  19  0  ~/image_processor.py
+-'  117  16  ~/image_processor.py
 -'  1  0  ~/jobs/image_processor.py
--'  183  13  ~/image_processor.py
--'  16  0  ~/image_processor.py
+-'  182  13  ~/image_processor.py
+-'  15  0  ~/image_processor.py
 -'  1  0  ~/jobs/image_processor.py
--'  1  0  ~/jobs/image_processor.py
--'  1  0  ~/jobs/image_processor.py
--'  1  0  ~/jobs/image_processor.py
--'  1  0  ~/jobs/image_processor.py
--'  144  16  ~/image_processor.py
--'  143  16  ~/image_processor.py
--'  141  17  ~/image_processor.py
--'  1  0  ~/image_processor.
--'  657  0  ~/image_processor.log
 
 # History of marks within files (newest to oldest):
 
 > ~/image_processor.py
-	"	169	8
-	^	136	97
-	.	135	2
-	+	131	77
-	+	131	92
-	+	123	57
-	+	131	57
-	+	137	81
-	+	136	161
-	+	131	52
-	+	131	0
-	+	131	105
-	+	134	27
-	+	131	0
-	+	131	105
-	+	134	27
-	+	135	221
-	+	134	39
-	+	136	125
-	+	137	63
-	+	131	24
-	+	131	24
-	+	131	24
+	"	1	0
+	.	1	0
+	+	130	57
+	+	136	81
+	+	135	161
+	+	130	52
+	+	130	0
+	+	130	105
+	+	133	27
+	+	130	0
+	+	130	105
+	+	133	27
+	+	134	221
+	+	133	39
+	+	135	125
+	+	136	63
+	+	130	24
+	+	130	24
+	+	130	24
+	+	133	2
 	+	134	2
-	+	135	2
-	+	134	39
-	+	131	24
-	+	136	16
+	+	133	39
+	+	130	24
+	+	135	16
+	+	135	15
+	+	135	0
+	+	135	16
+	+	135	15
+	+	135	48
+	+	135	31
+	+	135	35
+	+	135	41
+	+	135	49
+	+	135	41
+	+	135	0
+	+	135	16
+	+	135	125
+	+	135	16
 	+	136	15
-	+	136	0
 	+	136	16
-	+	136	15
-	+	136	48
-	+	136	31
-	+	136	35
-	+	136	41
 	+	136	49
 	+	136	41
+	+	136	65
+	+	136	60
 	+	136	0
-	+	136	16
-	+	136	125
-	+	136	16
-	+	137	15
-	+	137	16
-	+	137	49
-	+	137	41
-	+	137	65
-	+	137	60
-	+	137	0
-	+	137	0
-	+	137	60
-	+	134	59
-	+	135	62
-	+	137	27
-	+	137	49
-	+	137	62
-	+	136	16
-	+	137	16
-	+	137	16
-	+	137	16
-	+	137	16
-	+	135	0
-	+	137	0
-	+	138	0
 	+	136	0
-	+	135	0
-	+	132	0
-	+	131	24
-	+	131	24
-	+	132	0
-	+	134	48
-	+	136	125
+	+	136	60
+	+	133	59
+	+	134	62
 	+	136	27
-	+	135	2
-	+	134	54
-	+	22	50
-	+	131	101
-	+	135	13
-	+	135	218
-	+	135	2
-	+	131	70
-	+	135	2
-	+	123	0
-	+	126	16
-	+	125	30
+	+	136	49
+	+	136	62
+	+	135	16
+	+	136	16
+	+	136	16
+	+	136	16
+	+	136	16
+	+	134	0
+	+	136	0
+	+	137	0
+	+	135	0
+	+	134	0
 	+	131	0
-	+	125	17
-	+	131	39
-	+	135	17
-	+	137	77
-	+	154	28
-	+	133	57
-	+	134	31
-	+	171	63
-	+	135	2
-	+	125	13
-	+	131	35
-	+	171	23
-	+	135	13
-	+	171	19
-	+	135	2
-	+	136	105
-	+	135	2
+	+	130	24
+	+	130	24
+	+	131	0
+	+	133	48
+	+	135	125
+	+	135	27
+	+	134	2
+	+	133	54
+	+	21	50
+	+	130	101
+	+	134	13
+	+	134	218
+	+	134	2
+	+	130	70
+	+	134	2
+	+	122	0
+	+	125	16
+	+	124	30
+	+	130	0
+	+	124	17
+	+	130	39
+	+	134	17
+	+	136	77
+	+	153	28
+	+	132	57
+	+	133	31
+	+	170	63
+	+	134	2
+	+	124	13
+	+	130	35
+	+	170	23
+	+	134	13
+	+	170	19
+	+	134	2
+	+	135	105
+	+	134	2
+	+	221	0
+	+	221	0
+	+	1	0
 
 > ~/f86084ba-db75-4f46-b0f8-1d7dc90a17f3/image_processor.py
 	"	1	0
