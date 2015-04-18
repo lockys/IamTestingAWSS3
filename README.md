@@ -14,7 +14,7 @@
 
     sudo vi /sbin/ifup-local
 
-## Example, take interface "eth0" for instance.
+### Example, take interface "eth0" for instance.
     
     #!/bin/sh
     #!/usr/bin/python
@@ -28,7 +28,7 @@
     else
         ping 8.8.8.8 -c 5 >> /home/ec2-user/log
         
-## change r-w-x permission for that file.
+### change r-w-x permission for that file.
 
      sudo chmod +x /sbin/ifup-local
         
