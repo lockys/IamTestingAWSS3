@@ -169,7 +169,16 @@ def write_image_to_s3(path, odir, file_name, s3_output_bucket, s3_endpoint):
         os.system("echo 's3 6' >> py_log")
 	# Return a URL to the object
         os.system("mv %s %s" % (odir, "/home/ec2-user/jobs/"))
-	return "https://%s.s3.amazonaws.com/%s" % (s3_output_bucket, k.key)
+	os.system("mv %s %s" % (odir, "/home/ec2-user/jobs/"))
+        send_sns("https://%s.s3.amazonaws.com/%s" % (s3_output_bucket, k.key))
+        return "https://%s.s3.amazonaws.com/%s" % (s3_output_bucket, k.key)
+
+def send_sns(u):
+        c = boto.connect_sns("us-east-1")
+        topicarn = "--"
+        message = "Hey, Dear User\n We have an awesome picture with grayscale for you\n check that here:\n%s" % u
+        message_subject = "Graystyle! New image was added!"
+        publication = c.publish(topic=topicarn, message = message, subject = message_subject)
 ##############################################################################
 # Verify S3 bucket, create it if required
 ##############################################################################
