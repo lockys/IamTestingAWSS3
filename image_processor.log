@@ -1,0 +1,874 @@
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from ttps://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from ttps://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from ttps://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-ad05c09e-fe5f-4bed-9df0-1fe125d186a2.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429188035924
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429188570956.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-b0f871a0-39a7-44c3-bd2c-aecb093291f3.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429188720913.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-d8beb8cb-667f-4b03-a63e-a36bd2b05806.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429188857004.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-0bf041ee-f2db-423d-9ccc-292d78f7fa99.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-dab22a77-824e-4d44-8527-cf84f987f6fa.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429194888358.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-c1defba8-cd4c-4a23-87cd-07a4cbb4ebcc.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429195581577.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-ceb8d0e8-ea37-4a64-a139-2fadd5c20ea6.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429195632938.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-6e478579-0ff2-4dd2-a267-0e38f5d23b2d.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429195922928.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-197b6ca5-aba5-4ed6-93dc-9c8a1209dd60.jpg
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429196358563.bin
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429196541788.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-c2517d22-e084-4d28-8f1f-be05c4076310.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from http://cs9424.vk.me/u115760920/a_c73587e1.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/9/9f/AgustaWestland_Apache_AH1_10_(5968018661).jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/9/9f/AgustaWestland_Apache_AH1_10_(5968018661).jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-ba369456-4919-4649-b045-4db36fe3f388.jpg
+Image processing completed.
+Using Region us-east-1
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429271311060.gif
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429271311060.gif
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Using Region us-east-1
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Using Region us-east-1
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Polling input queue...
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429271833981.gif
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429276157769.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429278047005.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429278908466.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429279150234.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-255f04fd-f959-4b46-ab51-a8431b8a4b66.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280134077.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280158996.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280141144.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280338197.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280347548.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280333208.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280343068.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280352409.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280542668.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429280611899.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+Downloading image from http://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+Downloading image from http://static.juksy.com/uploads/news/20141218/20141218151932_13286.gif
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429284116328.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.TypeError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.TypeError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.OSError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.OSError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/1429290800801.gif
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-f4fc0382-8aff-4a68-94a5-ce4b1eb25717.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-f4fc0382-8aff-4a68-94a5-ce4b1eb25717.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-f4fc0382-8aff-4a68-94a5-ce4b1eb25717.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-ed1b534a-18ef-4066-b461-b4702f918d72.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-ed1b534a-18ef-4066-b461-b4702f918d72.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-ed1b534a-18ef-4066-b461-b4702f918d72.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-ed1b534a-18ef-4066-b461-b4702f918d72.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-8c40853b-96e6-4124-ba21-76333d58cbb7.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-677e6e54-5d91-4edd-b861-2b1ec90a93f6.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-834a4290-f222-4667-85b0-3f088f5e3300.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-3e38f1a6-97ec-4531-8695-bafc535a6236.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-3e38f1a6-97ec-4531-8695-bafc535a6236.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-3e38f1a6-97ec-4531-8695-bafc535a6236.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-3e38f1a6-97ec-4531-8695-bafc535a6236.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://s3-us-west-2.amazonaws.com/cp04-103062523/HW1/FB_IMG_1424602267199.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-32540613-d08e-41fd-8a2a-2706a6d9c24f.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-5e6bf7f8-b2ab-4d65-8933-8a75a9427bc3.jpg
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-42cb6e3c-518f-4e2c-9606-afac501c47f9.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-498eab43-db44-46d1-be80-724c352c7452.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-f86084ba-db75-4f46-b0f8-1d7dc90a17f3.jpg
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg 
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-b60749ab-4311-4d59-88ad-488f384c4f42.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01337-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-3010e1ae-24ef-4c16-a52a-3b0d94d5db31.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-ff2a1ca4-5708-4477-9e66-7323ff80b804.jpg
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01265-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-f85c2d68-d82f-40ba-8ccb-98f32c9cbb48.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://cp04-image-bucket.s3.amazonaws.com/out/output-f85c2d68-d82f-40ba-8ccb-98f32c9cbb48.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-49f43439-9b14-43e2-90ee-8b4a767a60d1.jpg
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-6f80ba62-eec9-4910-a4d0-ba2cbf7d5da4.jpg
+Image processing completed.
+Using Region us-east-1
+Retrieving jobs from queue cp04-input-queue. Processed images will be stored in cp04-image-bucket and a message placed in queue cp04-output-queue
+Polling input queue...
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01292-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-8ebe4d71-6b72-4712-8cc2-cc1bfe3c7017.jpg
+Image processing completed.
+Message received...
+Downloading image from https://plus.google.com/hangouts/_/gri7emofabu4gqtxexh4pqx73aa
+An error occurred. Please show this to your class instructor.
+<type 'exceptions.IOError'>
+Output available at: None
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01315-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-e7ba41f9-1b1c-4ee9-ae9f-c35e07d30e63.jpg
+Image processing completed.
+Message received...
+Downloading image from https://us-east-1-aws-training.s3.amazonaws.com/arch-static-assets/static/20120728-DSC01267-L.jpg
+Output available at: https://cp04-image-bucket.s3.amazonaws.com/out/output-46223b9e-2fff-4f01-94de-126e48dcc7bd.jpg
+Image processing completed.
