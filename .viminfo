@@ -54,18 +54,20 @@
 	din/python
 
 # File marks:
-'0  1  0  ~/image_processor.py
-'1  221  1  ~/image_processor.py
-'2  221  0  ~/image_processor.py
-'3  168  8  ~/image_processor.py
-'4  148  19  ~/image_processor.py
-'5  135  96  ~/image_processor.py
-'6  133  6  ~/image_processor.py
-'7  170  18  ~/image_processor.py
-'8  122  2  ~/image_processor.py
-'9  134  2  ~/image_processor.py
+'0  2  12  ~/.gitignore
+'1  1  0  ~/.gitignore
+'2  1  0  ~/image_processor.py
+'3  221  1  ~/image_processor.py
+'4  221  0  ~/image_processor.py
+'5  168  8  ~/image_processor.py
+'6  148  19  ~/image_processor.py
+'7  135  96  ~/image_processor.py
+'8  133  6  ~/image_processor.py
+'9  170  18  ~/image_processor.py
 
 # Jumplist (newest first):
+-'  2  12  ~/.gitignore
+-'  1  0  ~/.gitignore
 -'  1  0  ~/image_processor.py
 -'  220  4  ~/image_processor.py
 -'  219  0  ~/image_processor.py
@@ -161,8 +163,15 @@
 -'  182  13  ~/image_processor.py
 -'  15  0  ~/image_processor.py
 -'  1  0  ~/jobs/image_processor.py
+-'  1  0  ~/image_processor.py
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	2	12
+	^	2	13
+	.	2	13
+	+	2	13
 
 > ~/image_processor.py
 	"	1	0
