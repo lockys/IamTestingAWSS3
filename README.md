@@ -1,4 +1,5 @@
-## Initial bash script
+# Note for aws & os setting.
+## Initial bash script for first instance.
     
     #!/bin/bash  
     sudo yum install -y ImageMagick
@@ -24,7 +25,7 @@
         pushd . > /dev/null 2>&1
         cd /home/ec2-user/
         /usr/bin/python image_processor.py &
-    popd > /dev/null 2>&1
+        popd > /dev/null 2>&1
     else
         ping 8.8.8.8 -c 5 >> /home/ec2-user/log
         
